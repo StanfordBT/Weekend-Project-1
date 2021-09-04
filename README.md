@@ -1,2 +1,2 @@
 # example_nft_minter
-Use this repo to see how to create a Dapp that can mint NFTs.
+Nasıl NFT mint edebileceğinizi gösteren baştan uca bir hafta sonu dApp örneği, şimdiden herkese iyi çalışmalar.
